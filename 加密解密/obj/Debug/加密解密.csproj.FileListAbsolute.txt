@@ -1,0 +1,9 @@
+E:\C#\加密解密\加密解密\bin\Debug\加密解密.exe.config
+E:\C#\加密解密\加密解密\bin\Debug\加密解密.exe
+E:\C#\加密解密\加密解密\bin\Debug\加密解密.pdb
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.csprojResolveAssemblyReference.cache
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.Form1.resources
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.Properties.Resources.resources
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.csproj.GenerateResource.Cache
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.exe
+E:\C#\加密解密\加密解密\obj\Debug\加密解密.pdb
